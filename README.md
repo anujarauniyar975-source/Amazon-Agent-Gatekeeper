@@ -108,6 +108,9 @@ The Amazon Agent Gatekeeper prototype has been developed and tested using sample
 The application checks agent permissions, customer confirmation requirements, and revoked agent status. It also maintains an audit log of decisions.
 
 This project is an academic simulation and does not represent Amazon's actual internal policies.
+## Limitations
+
+This prototype is designed for academic demonstration. The ₹5,000 order threshold and permission rules are sample project rules, not verified Amazon policies. The application uses simulated agent activities and does not connect to Amazon's real customer accounts or systems.
 ```
 
 ---
