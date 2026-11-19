@@ -101,6 +101,13 @@ Amazon agent gatekeeper/
 ├── run.bat             # 1-Click launcher script for Windows
 ├── audit_log.csv       # Automatically generated audit history
 └── README.md           # Project documentation and assignment notes
+## Project Status
+
+The Amazon Agent Gatekeeper prototype has been developed and tested using sample transactions.
+
+The application checks agent permissions, customer confirmation requirements, and revoked agent status. It also maintains an audit log of decisions.
+
+This project is an academic simulation and does not represent Amazon's actual internal policies.
 ```
 
 ---
