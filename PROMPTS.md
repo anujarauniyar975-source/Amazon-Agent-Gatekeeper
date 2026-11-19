@@ -68,6 +68,17 @@ Please correct PROMPTS.md:
 4. Save the corrected file in the current project folder.
 
 Do not modify app.py or any other project file.
+## Testing and Validation
+
+The prototype was tested with different scenarios:
+
+1. Order placement within the ₹5,000 limit.
+2. Order placement above the ₹5,000 limit without customer confirmation.
+3. Order placement above the ₹5,000 limit with customer confirmation.
+4. Attempted action by a revoked agent.
+5. Product return request without customer confirmation.
+
+The results were checked in the application and audit log.
 ```
 
 ---
