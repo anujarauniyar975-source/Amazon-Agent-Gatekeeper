@@ -111,6 +111,12 @@ This project is an academic simulation and does not represent Amazon's actual in
 ## Limitations
 
 This prototype is designed for academic demonstration. The ₹5,000 order threshold and permission rules are sample project rules, not verified Amazon policies. The application uses simulated agent activities and does not connect to Amazon's real customer accounts or systems.
+## Future Improvements
+
+- Add more agent permission categories.
+- Improve the administrator dashboard.
+- Add stronger authentication for agents.
+- Improve audit log reporting and filtering.
 ```
 
 ---
