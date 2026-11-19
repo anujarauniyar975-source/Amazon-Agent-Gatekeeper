@@ -1,0 +1,12 @@
+Date,Time,Enrolment_No,Customer,Agent,Action,Amount (₹),Decision,Reason
+2026-11-19,20:17:02,MBA/2025/66518,Rahul Sharma,Agent_Beta,Return Request,"1,200.00",NEEDS CONFIRMATION,All return requests strictly require customer confirmation under proposed safety rules.
+2026-11-19,20:13:19,MBA/2025/66518,Rahul Sharma,Agent_Alpha,Place Order,"2,000.00",BLOCKED,Agent 'Agent_Alpha' authorization has been REVOKED by the administrator. Request denied.
+2026-11-19,20:05:45,MBA/2025/66518,Rahul Sharma,Agent_Alpha,Refund Request,"1,200.00",NEEDS CONFIRMATION,All refund requests strictly require customer confirmation under proposed safety rules.
+2026-11-19,20:04:39,MBA/2025/66518,Rahul Sharma,Agent_Alpha,Place Order,"7,500.00",ALLOWED (CONFIRMED),"High-value order of ₹7,500.00 (> ₹5,000) verified and confirmed by customer 'Rahul Sharma'."
+2026-11-19,20:03:39,MBA/2025/66518,Rahul Sharma,Agent_Alpha,Place Order,"7,500.00",NEEDS CONFIRMATION,"Orders above ₹5,000 (Requested: ₹7,500.00) require explicit customer confirmation before processing."
+2026-11-19,20:02:42,MBA/2025/66518,Rahul Sharma,Agent_Alpha,Place Order,"5,000.00",ALLOWED,"Order of ₹5,000.00 is within the autonomous approval threshold (≤ ₹5,000)."
+2026-11-19,20:01:24,MBA/2025/66518,Rahul Sharma,Agent_Alpha,Place Order,"3,500.00",ALLOWED,"Order of ₹3,500.00 is within the autonomous approval threshold (≤ ₹5,000)."
+2026-11-19,19:36:54,MBA/2026/0142,Rahul Sharma,Agent_Delta,Place Order,"7,500.00",BLOCKED,Agent 'Agent_Delta' authorization has been REVOKED by the administrator. Request denied.
+2026-11-19,19:33:49,MBA/2026/0142,Rahul Sharma,Agent_Alpha,Place Order,"7,500.00",ALLOWED (CONFIRMED),"High-value order of ₹7,500.00 (> ₹5,000) verified and confirmed by customer 'Rahul Sharma'."
+2026-11-19,19:33:29,MBA/2026/0142,Rahul Sharma,Agent_Alpha,Place Order,"7,500.00",NEEDS CONFIRMATION,"Orders above ₹5,000 (Requested: ₹7,500.00) require explicit customer confirmation before processing."
+2026-11-19,19:32:49,MBA/2026/0142,Rahul Sharma,Agent_Alpha,View Order Details,0.00,ALLOWED,Active registered agent 'Agent_Alpha' is authorized to view order details.
